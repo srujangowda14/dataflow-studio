@@ -106,13 +106,12 @@ const DataVizPortfolio = () => {
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-white">DataViz Studio</h1>
-                <p className="text-sm text-gray-300">Interactive Data Storytelling</p>
               </div>
             </div>
             <div className="flex items-center space-x-4">
               <div className="text-right">
                 <p className="text-sm text-gray-400">Portfolio by</p>
-                <p className="text-white font-semibold">Srujan Konda</p>
+                <p className="text-white font-semibold">Srujan Gowda</p>
               </div>
             </div>
           </div>
@@ -149,12 +148,6 @@ const DataVizPortfolio = () => {
         {activeTab === 'overview' && (
           <div className="space-y-8">
             <div className="text-center mb-12">
-              <h2 className="text-5xl font-bold text-white mb-4">
-                Data Visualization Portfolio
-              </h2>
-              <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-                Transforming complex data into compelling visual narratives through modern web technologies
-              </p>
             </div>
 
             {/* Stats Cards */}
@@ -564,7 +557,7 @@ const DataVizPortfolio = () => {
             </div>
 
             <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl p-8 text-center">
-              <h3 className="text-3xl font-bold text-white mb-4">Created by Srujan Konda</h3>
+              <h3 className="text-3xl font-bold text-white mb-4">Created by Srujan Gowda</h3>
               <p className="text-blue-100 text-lg mb-6">
                 Computer Science Graduate Student at USC | Full-Stack Developer | Data Visualization Specialist
               </p>
@@ -591,8 +584,7 @@ const DataVizPortfolio = () => {
       <footer className="bg-black bg-opacity-40 backdrop-blur-md border-t border-white border-opacity-10 mt-20">
         <div className="max-w-7xl mx-auto px-6 py-8">
           <div className="text-center text-gray-400">
-            <p>© 2024 DataViz Studio by Srujan Konda. Built with React & Recharts.</p>
-            <p className="mt-2 text-sm">Interactive Data Visualization Portfolio</p>
+            <p>© 2025 DataViz Studio by Srujan Gowda. Built with React & Recharts.</p>
           </div>
         </div>
       </footer>

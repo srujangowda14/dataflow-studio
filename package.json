@@ -15,7 +15,7 @@
     "portfolio",
     "interactive-charts"
   ],
-  "author": "Srujan Konda",
+  "author": "Srujan Gowda",
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
